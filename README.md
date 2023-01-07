@@ -14,6 +14,12 @@
 
 - 📫 How to reach me **akshaypatwa74@gmail.com**
 
+I am a language enthusiast and tech savvy strategist.
+Expertise in implementation and Solutions Design in ServiceNow. 
+Automate and Integrate Tools with ServiceNow to make processes faster and efficient. 
+
+Passionate in finding innovative ideas and solutions where there is a decent dose of challenge and variety everyday.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_akshaypatwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_akshaypatwa" height="30" width="40" /></a>
