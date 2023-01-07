@@ -35,5 +35,7 @@
 
 <h3 align="left">Others</h3>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">  <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a>  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<br>
+
+
+<\n>
 <p align="left"> <a href="https://twitter.com/_akshaypatwa" target="blank"><img src="https://img.shields.io/twitter/follow/_akshaypatwa?logo=twitter&style=for-the-badge" alt="_akshaypatwa" /></a> </p>
