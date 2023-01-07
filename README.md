@@ -3,7 +3,7 @@
 <h3 align="center">ServiceNow Expert and strong background in DevOps and AWS</h3>
 
 
-<img align="right" alt="programmer" width="400" src="https://dribbble.com/shots/3848914-Programmer-Thomas?utm_source=Clipboard_Shot&utm_campaign=kunchevsky&utm_content=Programmer%20Thomas&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=kunchevsky&utm_content=Programmer%20Thomas&utm_medium=Social_Share">
+<img align="right" alt="programmer" width="400" src="![Junior or senior front-end developer](https://user-images.githubusercontent.com/65025208/211150745-b850654a-82b4-413b-9069-d13eb88baa88.gif)">
 
 <p align="left"> <a href="https://twitter.com/_akshaypatwa" target="blank"><img src="https://img.shields.io/twitter/follow/_akshaypatwa?logo=twitter&style=for-the-badge" alt="_akshaypatwa" /></a> </p>
 
