@@ -1,9 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Akshay Patwa</h1>
-<h3 align="center">ServiceNow Expert and strong background in DevOps and AWS</h3>
+<h3 align="center">ServiceNow Expert and Experience in DevOps and AWS</h3>
 
 
 <img align="right" alt="programmer" width="400" src= "https://cdn.dribbble.com/users/14374/screenshots/3153764/media/3cf85179d755ecfdb0febb47de92109a.gif">
+<br>
 
 - 🔭 I’m currently working on **ServiceNow and DevOps integrations**
 
