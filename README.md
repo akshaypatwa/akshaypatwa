@@ -1,6 +1,4 @@
-![Screenshot_1 (1)](https://user-images.githubusercontent.com/65025208/211159290-fc814e83-a727-4a9b-9dc4-c33f9115dbfa.jpg)
-
-
+![DevOps](https://user-images.githubusercontent.com/65025208/211159463-8566903c-4322-4650-842b-c6e762eaa866.png)
 <h1 align="center">Hi 👋, I'm Akshay Patwa</h1>
 <h3 align="center">ServiceNow Expert and Experience in DevOps and AWS</h3>
 
