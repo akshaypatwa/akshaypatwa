@@ -7,11 +7,17 @@
 
 - ITSM
 
+- Integrations (REST|SOAP|Email|Transform Maps)
+
 - Discovery
 
-- 💬 Ask me about **ServiceNow platform**
+- Service Portal
 
-- 📫 How to reach me **akshaypatwa74@gmail.com**
+- CMDB
+
+- GRC
+
+- SecOps
 
 - 🔭 I’m currently working on **ServiceNow and DevOps integrations**
 
