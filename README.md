@@ -1,10 +1,15 @@
 ![DevOps](https://user-images.githubusercontent.com/65025208/211159463-8566903c-4322-4650-842b-c6e762eaa866.png)
 <h1 align="center">Hi 👋, I'm Akshay Patwa</h1>
 <h3 align="center">ServiceNow Expert and Experience in DevOps and AWS</h3>
-<h4 align="center">ITSM</h4>
-<h4 align="center">Service Portal</h4>
 <img align="right" alt="programmer" width="400" src= "https://cdn.dribbble.com/users/14374/screenshots/3153764/media/3cf85179d755ecfdb0febb47de92109a.gif">
 <br>
+<h4 align="center">ServiceNow Stack:</h4>
+- ITSM
+- Integrations (REST|Email|Transform Maps|SOAP)
+- Service Portal
+- Discovery
+- GRC
+- SecOps
 
 - 🔭 I’m currently working on **ServiceNow and DevOps integrations**
 
