@@ -19,6 +19,8 @@
 
 - SecOps
 
+ <h4>Summary:</h4>
+
 - 🔭 I’m currently working on **ServiceNow and DevOps integrations**
 
 - 👯 I’m looking to collaborate on **ServiceNow Platform, DevOps tools and Integrations**
