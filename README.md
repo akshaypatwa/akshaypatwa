@@ -3,13 +3,15 @@
 <h3 align="center">ServiceNow Expert and Experience in DevOps and AWS</h3>
 <img align="right" alt="programmer" width="400" src= "https://cdn.dribbble.com/users/14374/screenshots/3153764/media/3cf85179d755ecfdb0febb47de92109a.gif">
 <br>
-<h4 align="center">ServiceNow Stack:</h4>
+<h4>ServiceNow Stack:</h4>
+
 - ITSM
-- Integrations (REST|Email|Transform Maps|SOAP)
-- Service Portal
+
 - Discovery
-- GRC
-- SecOps
+
+- 💬 Ask me about **ServiceNow platform**
+
+- 📫 How to reach me **akshaypatwa74@gmail.com**
 
 - 🔭 I’m currently working on **ServiceNow and DevOps integrations**
 
