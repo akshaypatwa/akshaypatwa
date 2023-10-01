@@ -53,6 +53,7 @@ Passionate in finding innovative ideas and solutions where there is a decent dos
 <h3 align="left">Others</h3>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">  <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a>  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshaypatwa&show_icons=true&locale=en&layout=compact" alt="akshaypatwa" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshaypatwa&show_icons=true&locale=en" alt="akshaypatwa" /></p>
