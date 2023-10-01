@@ -47,7 +47,7 @@ technical_background:
   ]
   
 currently_learning: ["Virtual Agent, RPA and HRSD"]
-2022 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
+2023 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
 hobbies: ["Animation", "Design", "Gaming", "Cinema"]
 ```
   
