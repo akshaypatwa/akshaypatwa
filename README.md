@@ -7,19 +7,13 @@
 <br>
 <h4>ServiceNow Stack:</h4>
 
-- ITSM
+- ITSM & Service Portal
 
-- Integrations (REST|SOAP|Email|Transform Maps)
+- Integrations (REST | SOAP | Email | Transform Maps)
 
-- Discovery
+- Discovery & CMDB
 
-- Service Portal
-
-- CMDB
-
-- GRC
-
-- SecOps
+- GRC & SecOps
 
  <h4>Summary:</h4>
 
