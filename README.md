@@ -31,11 +31,12 @@ Automate and Integrate Tools with ServiceNow to make processes faster and effici
 
 Passionate in finding innovative ideas and solutions where there is a decent dose of challenge and variety everyday.
 
-![My Image](https://github.com/akshaypatwa/ProfileIcon_Collection/blob/master/icons8-twitter.gif)
+
+![NewImg](https://github.com/akshaypatwa/ProfileIcon_Collection/blob/master/icons8-twitter-96.png)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/_akshaypatwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_akshaypatwa" height="30" width="40"/></a>
+<a href="https://twitter.com/_akshaypatwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/akshaypatwa/ProfileIcon_Collection/blob/master/icons8-twitter-96.png" alt="_akshaypatwa" height="30" width="40"/></a>
 <a href="https://linkedin.com/in/akshay-patwa-ba152b63" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshay-patwa-ba152b63" height="30" width="40" /></a>
 <a href="https://instagram.com/_akxay_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_akxay_" height="30" width="40" /></a> 
 </p>
