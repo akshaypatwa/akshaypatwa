@@ -31,9 +31,8 @@ Automate and Integrate Tools with ServiceNow to make processes faster and effici
 
 Passionate in finding innovative ideas and solutions where there is a decent dose of challenge and variety everyday.
 
-## 🌐 Connect with me!!:
+## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akshay-patwa-ba152b63) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_akshaypatwa) 
-
 
 
 # 💻 Tech Stack:
@@ -55,8 +54,15 @@ Passionate in finding innovative ideas and solutions where there is a decent dos
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">  <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a>  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> -->
 
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=akshaypatwa&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=akshaypatwa&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=akshaypatwa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshaypatwa&show_icons=true&locale=en&layout=compact" alt="akshaypatwa" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshaypatwa&show_icons=true&locale=en" alt="akshaypatwa" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshaypatwa&" alt="akshaypatwa" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshaypatwa&" alt="akshaypatwa" /></p> -->
