@@ -1,6 +1,6 @@
 ![DevOps](https://user-images.githubusercontent.com/65025208/211159463-8566903c-4322-4650-842b-c6e762eaa866.png)
 <h1 align="center">Hi 👋, I'm Akshay Patwa</h1>
-<h3 align="center">ServiceNow Expert and Experience in DevOps and AWS</h3>
+<h3 align="center">ServiceNow Solution Architect and strong background in DevOps and AWS</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaypatwa&label=Profile%20views&color=0e75b6&style=flat" alt="akshaypatwa" /> </p>
 
 <img align="right" alt="programmer" width="400" src= "https://cdn.dribbble.com/users/14374/screenshots/3153764/media/3cf85179d755ecfdb0febb47de92109a.gif">
@@ -52,3 +52,9 @@ Passionate in finding innovative ideas and solutions where there is a decent dos
 
 <h3 align="left">Others</h3>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">  <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a>  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshaypatwa&show_icons=true&locale=en&layout=compact" alt="akshaypatwa" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshaypatwa&show_icons=true&locale=en" alt="akshaypatwa" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshaypatwa&" alt="akshaypatwa" /></p>
