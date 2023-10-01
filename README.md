@@ -20,6 +20,7 @@
 ```yaml
 name: Akshay Patwa
 current_job: ServiceNow Technical Lead
+experience: 9 years in BMC and ServiceNow Platform
 servicenow_stack:
   [
     "ITSM & Service Portal",
