@@ -20,7 +20,7 @@
 ```yaml
 name: Akshay Patwa
 current_job: ServiceNow Technical Lead
-experience: 9 years in BMC and ServiceNow Platform
+experience: 9 years in ITSM and Cloud Automation and 4.5+ years in ServiceNow Platform
 servicenow_stack:
   [
     "ITSM & Service Portal",
@@ -28,7 +28,7 @@ servicenow_stack:
     "Discovery & CMDB",
     "GRC & SecOps"
   ]
-company: InMorphis
+company: EPAM Systems
 
 fields_of_interests:
   [
