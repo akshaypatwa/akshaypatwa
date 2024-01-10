@@ -55,24 +55,6 @@ hobbies: ["Animation", "Design", "Gaming", "Cinema"]
   
 ---  
 
-
-<!--
- <h4>Summary:</h4>
-
-- 🔭 I’m currently working on **ServiceNow and DevOps integrations**
-
-- 👯 I’m looking to collaborate on **ServiceNow Platform, DevOps tools and Integrations**
-
-- 💬 Ask me about **ServiceNow platform**
-
-- 📫 How to reach me **akshaypatwa74@gmail.com**
-
-I am a language enthusiast and tech savvy strategist.
-Expertise in implementation and Solutions Design in ServiceNow. 
-Automate and Integrate Tools with ServiceNow to make processes faster and efficient. 
-
-Passionate in finding innovative ideas and solutions where there is a decent dose of challenge and variety everyday. -->
-
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akshay-patwa-ba152b63) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_akshaypatwa) 
 
