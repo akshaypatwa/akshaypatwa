@@ -37,7 +37,7 @@ fields_of_interests:
     "DevOps",
     "AWS",
     "UI/UX",
-    "GEN AI"
+    "GEN AI and LLMs"
     "RPA"
   ]
 technical_background:
