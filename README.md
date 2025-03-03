@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaypatwa&label=Profile%20views&color=0e75b6&style=flat" alt="akshaypatwa" /> </p>
 <img align="right" alt="programmer" width="400" src= "https://cdn.dribbble.com/users/14374/screenshots/3153764/media/3cf85179d755ecfdb0febb47de92109a.gif">
 <br>
-<h2>ServiceNow Stack:</h2>
+<h2>ServiceNow Stack:</h2> <br><br>
 
 - ITSM & Service Portal
 
