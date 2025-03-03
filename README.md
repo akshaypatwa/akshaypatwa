@@ -9,7 +9,7 @@
 
 - ITSM & Service Portal
 
-- GenAI (NowAssist | Skill Kit | NowLLM | Controller | Agentic AI)
+- GenAI (NowAssist | Skill Kit | NowLLM | Agentic AI)
 
 - Integrations (REST | SOAP | Email | Transform Maps)
 
