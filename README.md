@@ -1,6 +1,6 @@
 ![DevOps](https://user-images.githubusercontent.com/65025208/211159463-8566903c-4322-4650-842b-c6e762eaa866.png)
 <h1 align="center">Hi 👋, I'm Akshay Patwa</h1>
-<h3 align="center">ServiceNow Solution Architect and strong background in DevOps and AWS</h3>
+<h3 align="center">ServiceNow Solution Architect and strong background in DevOps, AWS and GenAI </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaypatwa&label=Profile%20views&color=0e75b6&style=flat" alt="akshaypatwa" /> </p>
 
 <img align="right" alt="programmer" width="400" src= "https://cdn.dribbble.com/users/14374/screenshots/3153764/media/3cf85179d755ecfdb0febb47de92109a.gif">
@@ -8,6 +8,8 @@
 <h2>ServiceNow Stack:</h2>
 
 - ITSM & Service Portal
+
+- GenAI (NowAssist | Skill Kit | NowLLM | Controller | Agentic AI)
 
 - Integrations (REST | SOAP | Email | Transform Maps)
 
@@ -20,11 +22,12 @@
 ```yaml
 name: Akshay Patwa
 current_job: ServiceNow Technical Lead
-experience: 9 years in ITSM and Cloud Automation and 4.5+ years in ServiceNow Platform
+experience: 10 years in ITSM and Cloud Automation and 5+ years in ServiceNow Platform
 servicenow_stack:
   [
     "ITSM & Service Portal",
     "Integrations (REST | SOAP | Email | Transform Maps)",
+    "GenAI (NowAssist | Skill Kit | NowLLM | Controller | Agentic AI)"
     "Discovery & CMDB",
     "GRC & SecOps"
   ]
@@ -37,7 +40,7 @@ fields_of_interests:
     "DevOps",
     "AWS",
     "UI/UX",
-    "GEN AI and LLMs"
+    "GenAI and LLMs"
     "RPA"
   ]
 technical_background:
@@ -45,11 +48,12 @@ technical_background:
     "ServiceNow Solutions Architect",
     "Completed more than 30 Integrations with 3rd Party Tools",
     "End to End Implementation on GRC and SecOps ",
+    "Strong experience in ServiceNow GenAI"
     "Expertise in ITSM, CMDB, Discovery and ServicePortal",
   ]
   
 currently_learning: ["Virtual Agent, RPA and HRSD"]
-2023 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
+2025 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
 hobbies: ["Animation", "Design", "Gaming", "Cinema"]
 ```
   
